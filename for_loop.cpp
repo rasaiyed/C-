@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int row,col,x=1;
+	
 	for(row=5;row>=1;row--) // 4; 4>=1 ;4--
 	{
 		for(col=1;col<=row;col++)//1;1<=4;1++
